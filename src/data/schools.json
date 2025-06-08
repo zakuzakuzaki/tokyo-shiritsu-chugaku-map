@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kaisei",
+    "name": "開成中学校",
+    "address": "東京都荒川区西日暮里4-2-4",
+    "nearestStation": "西日暮里駅",
+    "hensachi": 72,
+    "gender": "boys",
+    "tuition": 1200000,
+    "lat": 35.73231,
+    "lng": 139.77063
+  },
+  {
+    "id": "azabu",
+    "name": "麻布中学校",
+    "address": "東京都港区元麻布2-3-29",
+    "nearestStation": "麻布十番駅",
+    "hensachi": 70,
+    "gender": "boys",
+    "tuition": 1200000,
+    "lat": 35.65223,
+    "lng": 139.73136
+  },
+  {
+    "id": "musashi",
+    "name": "武蔵中学校",
+    "address": "東京都練馬区豊玉上1-26-1",
+    "nearestStation": "江古田駅",
+    "hensachi": 69,
+    "gender": "boys",
+    "tuition": 1100000,
+    "lat": 35.73724,
+    "lng": 139.66842
+  },
+  {
+    "id": "komaba-toho",
+    "name": "駒場東邦中学校",
+    "address": "東京都世田谷区池尻4-5-1",
+    "nearestStation": "池尻大橋駅",
+    "hensachi": 69,
+    "gender": "boys",
+    "tuition": 1100000,
+    "lat": 35.65431,
+    "lng": 139.68595
+  },
+  {
+    "id": "kaijo",
+    "name": "海城中学校",
+    "address": "東京都新宿区大久保3-6-1",
+    "nearestStation": "新大久保駅",
+    "hensachi": 67,
+    "gender": "boys",
+    "tuition": 1100000,
+    "lat": 35.70315,
+    "lng": 139.70046
+  },
+  {
+    "id": "oin",
+    "name": "桜蔭中学校",
+    "address": "東京都文京区本郷1-5-25",
+    "nearestStation": "水道橋駅",
+    "hensachi": 73,
+    "gender": "girls",
+    "tuition": 1100000,
+    "lat": 35.70201,
+    "lng": 139.75374
+  },
+  {
+    "id": "joshi-gakuin",
+    "name": "女子学院中学校",
+    "address": "東京都千代田区一番町22-10",
+    "nearestStation": "麹町駅",
+    "hensachi": 72,
+    "gender": "girls",
+    "tuition": 1100000,
+    "lat": 35.6851,
+    "lng": 139.74236
+  },
+  {
+    "id": "futaba",
+    "name": "雙葉中学校",
+    "address": "東京都千代田区六番町14-1",
+    "nearestStation": "四ツ谷駅",
+    "hensachi": 71,
+    "gender": "girls",
+    "tuition": 1100000,
+    "lat": 35.6836,
+    "lng": 139.7334
+  },
+  {
+    "id": "shirayuri",
+    "name": "白百合学園中学校",
+    "address": "東京都千代田区九段北2-4-1",
+    "nearestStation": "九段下駅",
+    "hensachi": 70,
+    "gender": "girls",
+    "tuition": 1100000,
+    "lat": 35.69507,
+    "lng": 139.74644
+  },
+  {
+    "id": "toshimaoka",
+    "name": "豊島岡女子学園中学校",
+    "address": "東京都豊島区東池袋1-25-22",
+    "nearestStation": "池袋駅",
+    "hensachi": 70,
+    "gender": "girls",
+    "tuition": 1100000,
+    "lat": 35.73252,
+    "lng": 139.71667
+  }
+]
