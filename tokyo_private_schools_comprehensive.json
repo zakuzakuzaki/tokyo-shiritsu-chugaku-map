@@ -1,0 +1,827 @@
+[
+  {
+    "name": "愛国中学校",
+    "nameEn": "Aikoku Junior High School",
+    "ward": "江戸川区",
+    "address": "東京都江戸川区西小岩5-7-1",
+    "postalCode": "133-8585",
+    "phone": "03-3658-4111",
+    "website": "https://www.aikokugakuen.ac.jp/junior-high/",
+    "type": "共学",
+    "establishmentYear": null,
+    "coordinates": {
+      "lat": 35.7364,
+      "lng": 139.8942
+    }
+  },
+  {
+    "name": "青山学院中等部",
+    "nameEn": "Aoyama Gakuin Junior High School",
+    "ward": "渋谷区",
+    "address": "東京都渋谷区渋谷4-4-25",
+    "postalCode": "150-8366",
+    "phone": "03-3407-7463",
+    "website": "https://www.jh.aoyama.ed.jp/",
+    "type": "共学",
+    "establishmentYear": 1947,
+    "coordinates": {
+      "lat": 35.6581,
+      "lng": 139.7414
+    }
+  },
+  {
+    "name": "麻布中学校",
+    "nameEn": "Azabu Junior High School",
+    "ward": "港区",
+    "address": "東京都港区元麻布2-3-29",
+    "postalCode": "106-0046",
+    "phone": "03-3446-6541",
+    "website": "http://www.azabu-jh.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1895,
+    "coordinates": {
+      "lat": 35.6548,
+      "lng": 139.7297
+    }
+  },
+  {
+    "name": "跡見学園中学校",
+    "nameEn": "Atomi Gakuen Junior High School",
+    "ward": "文京区",
+    "address": "東京都文京区大塚1-5-9",
+    "postalCode": "112-8629",
+    "phone": "03-3941-8167",
+    "website": "https://www.atomi.ac.jp/jh/",
+    "type": "女子",
+    "establishmentYear": 1875,
+    "coordinates": {
+      "lat": 35.7280,
+      "lng": 139.7307
+    }
+  },
+  {
+    "name": "穎明館中学校",
+    "nameEn": "Eimeikan Junior High School",
+    "ward": "八王子市",
+    "address": "東京都八王子市館町2600",
+    "postalCode": "193-0944",
+    "phone": "042-664-7100",
+    "website": "http://www.emk.ac.jp/",
+    "type": "共学",
+    "establishmentYear": 1985,
+    "coordinates": {
+      "lat": 35.6445,
+      "lng": 139.2614
+    }
+  },
+  {
+    "name": "桜蔭中学校",
+    "nameEn": "Ouin Junior High School",
+    "ward": "文京区",
+    "address": "東京都文京区本郷1-5-25",
+    "postalCode": "113-0033",
+    "phone": "03-3811-0147",
+    "website": "http://www.oin.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1924,
+    "coordinates": {
+      "lat": 35.7089,
+      "lng": 139.7664
+    }
+  },
+  {
+    "name": "大妻中学校",
+    "nameEn": "Otsuma Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区三番町12",
+    "postalCode": "102-8357",
+    "phone": "03-5275-6002",
+    "website": "http://www.otsuma.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1908,
+    "coordinates": {
+      "lat": 35.6869,
+      "lng": 139.7427
+    }
+  },
+  {
+    "name": "大妻多摩中学校",
+    "nameEn": "Otsuma Tama Junior High School",
+    "ward": "多摩市",
+    "address": "東京都多摩市唐木田2-7-1",
+    "postalCode": "206-8540",
+    "phone": "042-372-9113",
+    "website": "https://www.otsuma-tama.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1988,
+    "coordinates": {
+      "lat": 35.6064,
+      "lng": 139.4484
+    }
+  },
+  {
+    "name": "大妻中野中学校",
+    "nameEn": "Otsuma Nakano Junior High School",
+    "ward": "中野区",
+    "address": "東京都中野区上高田2-3-7",
+    "postalCode": "164-0002",
+    "phone": "03-3389-7211",
+    "website": "http://www.otsumanakano.ac.jp/",
+    "type": "女子",
+    "establishmentYear": 1941,
+    "coordinates": {
+      "lat": 35.7214,
+      "lng": 139.6842
+    }
+  },
+  {
+    "name": "海城中学校",
+    "nameEn": "Kaijo Junior High School",
+    "ward": "新宿区",
+    "address": "東京都新宿区大久保3-6-1",
+    "postalCode": "169-0072",
+    "phone": "03-3209-5880",
+    "website": "http://www.kaijo.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1891,
+    "coordinates": {
+      "lat": 35.7034,
+      "lng": 139.7030
+    }
+  },
+  {
+    "name": "開成中学校",
+    "nameEn": "Kaisei Junior High School",
+    "ward": "荒川区",
+    "address": "東京都荒川区西日暮里4-2-4",
+    "postalCode": "116-0013",
+    "phone": "03-3822-0741",
+    "website": "http://www.kaiseigakuen.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1871,
+    "coordinates": {
+      "lat": 35.7321,
+      "lng": 139.7661
+    }
+  },
+  {
+    "name": "開智日本橋学園中学校",
+    "nameEn": "Kaichi Nihonbashi Gakuen Junior High School",
+    "ward": "中央区",
+    "address": "東京都中央区日本橋馬喰町2-7-6",
+    "postalCode": "103-8384",
+    "phone": "03-3662-2507",
+    "website": "http://www.kng.ed.jp/",
+    "type": "共学",
+    "establishmentYear": 2015,
+    "coordinates": {
+      "lat": 35.6936,
+      "lng": 139.7836
+    }
+  },
+  {
+    "name": "学習院中等科",
+    "nameEn": "Gakushuin Junior High School",
+    "ward": "豊島区",
+    "address": "東京都豊島区目白1-5-1",
+    "postalCode": "171-0031",
+    "phone": "03-3986-0221",
+    "website": "http://www.gakushuin.ac.jp/boy/",
+    "type": "男子",
+    "establishmentYear": 1877,
+    "coordinates": {
+      "lat": 35.7211,
+      "lng": 139.7068
+    }
+  },
+  {
+    "name": "学習院女子中等科",
+    "nameEn": "Gakushuin Girls' Junior High School",
+    "ward": "新宿区",
+    "address": "東京都新宿区戸山3-20-1",
+    "postalCode": "162-8656",
+    "phone": "03-3203-1901",
+    "website": "http://www.gakushuin.ac.jp/girl/",
+    "type": "女子",
+    "establishmentYear": 1885,
+    "coordinates": {
+      "lat": 35.7044,
+      "lng": 139.7178
+    }
+  },
+  {
+    "name": "神田女学園中学校",
+    "nameEn": "Kanda Girls' Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区猿楽町2-3-6",
+    "postalCode": "101-0064",
+    "phone": "03-6383-3751",
+    "website": "http://www.kandajogakuen.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1890,
+    "coordinates": {
+      "lat": 35.7017,
+      "lng": 139.7664
+    }
+  },
+  {
+    "name": "吉祥女子中学校",
+    "nameEn": "Kichijoji Junior High School",
+    "ward": "武蔵野市",
+    "address": "東京都武蔵野市吉祥寺東町4-12-20",
+    "postalCode": "180-0002",
+    "phone": "0422-22-8117",
+    "website": "http://www.kichijoji.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1938,
+    "coordinates": {
+      "lat": 35.7098,
+      "lng": 139.5745
+    }
+  },
+  {
+    "name": "暁星中学校",
+    "nameEn": "Gyosei Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区富士見1-2-5",
+    "postalCode": "102-8133",
+    "phone": "03-3262-3291",
+    "website": "http://www.gyosei-h.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1888,
+    "coordinates": {
+      "lat": 35.6972,
+      "lng": 139.7494
+    }
+  },
+  {
+    "name": "共立女子中学校",
+    "nameEn": "Kyoritsu Women's Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区一ツ橋2-2-1",
+    "postalCode": "101-8433",
+    "phone": "03-3237-2744",
+    "website": "http://www.kyoritsu-wu.ac.jp/chukou/",
+    "type": "女子",
+    "establishmentYear": 1886,
+    "coordinates": {
+      "lat": 35.6939,
+      "lng": 139.7597
+    }
+  },
+  {
+    "name": "駒場東邦中学校",
+    "nameEn": "Komaba Toho Junior High School",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区池尻4-5-1",
+    "postalCode": "154-0001",
+    "phone": "03-3466-8221",
+    "website": "http://www.komabatoho.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1957,
+    "coordinates": {
+      "lat": 35.6547,
+      "lng": 139.6958
+    }
+  },
+  {
+    "name": "慶應義塾中等部",
+    "nameEn": "Keio Junior High School",
+    "ward": "港区",
+    "address": "東京都港区三田2-17-10",
+    "postalCode": "108-0073",
+    "phone": "03-5427-1677",
+    "website": "http://www.kgc.keio.ac.jp/",
+    "type": "共学",
+    "establishmentYear": 1947,
+    "coordinates": {
+      "lat": 35.6434,
+      "lng": 139.7447
+    }
+  },
+  {
+    "name": "恵泉女学園中学校",
+    "nameEn": "Keisen Girls' Junior High School",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区船橋5-8-1",
+    "postalCode": "156-0055",
+    "phone": "03-3303-2115",
+    "website": "http://www.keisen.ac.jp/",
+    "type": "女子",
+    "establishmentYear": 1929,
+    "coordinates": {
+      "lat": 35.6364,
+      "lng": 139.6289
+    }
+  },
+  {
+    "name": "麹町学園女子中学校",
+    "nameEn": "Kojimachi Girls' Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区麹町3-8",
+    "postalCode": "102-0083",
+    "phone": "03-3263-3011",
+    "website": "http://www.kojimachi.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1905,
+    "coordinates": {
+      "lat": 35.6867,
+      "lng": 139.7375
+    }
+  },
+  {
+    "name": "国学院大学久我山中学校",
+    "nameEn": "Kokugakuin University Kugayama Junior High School",
+    "ward": "杉並区",
+    "address": "東京都杉並区久我山1-9-1",
+    "postalCode": "168-0082",
+    "phone": "03-3334-1151",
+    "website": "http://www.kugayama.ed.jp/",
+    "type": "共学",
+    "establishmentYear": 1948,
+    "coordinates": {
+      "lat": 35.6925,
+      "lng": 139.6164
+    }
+  },
+  {
+    "name": "国士舘中学校",
+    "nameEn": "Kokushikan Junior High School",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区若林4-32-1",
+    "postalCode": "154-8553",
+    "phone": "03-5481-3114",
+    "website": "http://www.kokushikan.ed.jp/",
+    "type": "共学",
+    "establishmentYear": 1958,
+    "coordinates": {
+      "lat": 35.6389,
+      "lng": 139.6747
+    }
+  },
+  {
+    "name": "芝中学校",
+    "nameEn": "Shiba Junior High School",
+    "ward": "港区",
+    "address": "東京都港区芝公園3-5-37",
+    "postalCode": "105-0011",
+    "phone": "03-3431-2629",
+    "website": "http://www.shiba.ac.jp/",
+    "type": "男子",
+    "establishmentYear": 1906,
+    "coordinates": {
+      "lat": 35.6553,
+      "lng": 139.7481
+    }
+  },
+  {
+    "name": "渋谷教育学園渋谷中学校",
+    "nameEn": "Shibuya Education Academy Shibuya Junior High School",
+    "ward": "渋谷区",
+    "address": "東京都渋谷区渋谷1-21-18",
+    "postalCode": "150-0002",
+    "phone": "03-3400-6363",
+    "website": "http://www.shibushibu.ac.jp/",
+    "type": "共学",
+    "establishmentYear": 1996,
+    "coordinates": {
+      "lat": 35.6597,
+      "lng": 139.7036
+    }
+  },
+  {
+    "name": "白百合学園中学校",
+    "nameEn": "Shirayuri Gakuen Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区九段北2-4-1",
+    "postalCode": "102-8185",
+    "phone": "03-3234-6661",
+    "website": "http://www.shirayuri.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1881,
+    "coordinates": {
+      "lat": 35.6975,
+      "lng": 139.7522
+    }
+  },
+  {
+    "name": "巣鴨中学校",
+    "nameEn": "Sugamo Junior High School",
+    "ward": "豊島区",
+    "address": "東京都豊島区上池袋1-21-1",
+    "postalCode": "170-0012",
+    "phone": "03-3918-5311",
+    "website": "http://www.sugamo.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1910,
+    "coordinates": {
+      "lat": 35.7431,
+      "lng": 139.7300
+    }
+  },
+  {
+    "name": "成蹊中学校",
+    "nameEn": "Seikei Junior High School",
+    "ward": "武蔵野市",
+    "address": "東京都武蔵野市吉祥寺北町3-10-13",
+    "postalCode": "180-8633",
+    "phone": "0422-37-3818",
+    "website": "http://www.seikei.ac.jp/jsh/",
+    "type": "共学",
+    "establishmentYear": 1912,
+    "coordinates": {
+      "lat": 35.7189,
+      "lng": 139.5714
+    }
+  },
+  {
+    "name": "成城中学校",
+    "nameEn": "Seijo Junior High School",
+    "ward": "新宿区",
+    "address": "東京都新宿区原町3-87",
+    "postalCode": "162-8670",
+    "phone": "03-3341-6141",
+    "website": "http://www.seijogakko.ed.jp/chukou/",
+    "type": "男子",
+    "establishmentYear": 1885,
+    "coordinates": {
+      "lat": 35.7069,
+      "lng": 139.7219
+    }
+  },
+  {
+    "name": "成城学園中学校",
+    "nameEn": "Seijo Gakuen Junior High School",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区成城6-1-20",
+    "postalCode": "157-8511",
+    "phone": "03-3482-2104",
+    "website": "http://www.seijogakuen.ed.jp/chukou/",
+    "type": "共学",
+    "establishmentYear": 1917,
+    "coordinates": {
+      "lat": 35.6431,
+      "lng": 139.6025
+    }
+  },
+  {
+    "name": "聖心女子学院中等科",
+    "nameEn": "Sacred Heart School Junior High School",
+    "ward": "港区",
+    "address": "東京都港区白金4-11-1",
+    "postalCode": "108-0072",
+    "phone": "03-3444-7671",
+    "website": "http://www.tky-sacred-heart.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1908,
+    "coordinates": {
+      "lat": 35.6414,
+      "lng": 139.7294
+    }
+  },
+  {
+    "name": "世田谷学園中学校",
+    "nameEn": "Setagaya Gakuen Junior High School",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区三宿1-16-31",
+    "postalCode": "154-0005",
+    "phone": "03-3411-8661",
+    "website": "http://www.setagayagakuen.ac.jp/",
+    "type": "男子",
+    "establishmentYear": 1592,
+    "coordinates": {
+      "lat": 35.6608,
+      "lng": 139.6736
+    }
+  },
+  {
+    "name": "高輪中学校",
+    "nameEn": "Takanawa Junior High School",
+    "ward": "港区",
+    "address": "東京都港区高輪2-1-32",
+    "postalCode": "108-0074",
+    "phone": "03-3441-7201",
+    "website": "http://www.takanawa.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1885,
+    "coordinates": {
+      "lat": 35.6406,
+      "lng": 139.7361
+    }
+  },
+  {
+    "name": "玉川学園中学部",
+    "nameEn": "Tamagawa Gakuen Junior High School",
+    "ward": "町田市",
+    "address": "東京都町田市玉川学園6-1-1",
+    "postalCode": "194-8610",
+    "phone": "042-739-8931",
+    "website": "http://www.tamagawa.jp/academy/junior_high/",
+    "type": "共学",
+    "establishmentYear": 1929,
+    "coordinates": {
+      "lat": 35.5678,
+      "lng": 139.4508
+    }
+  },
+  {
+    "name": "中央大学附属中学校",
+    "nameEn": "Chuo University Junior High School",
+    "ward": "小金井市",
+    "address": "東京都小金井市貫井北町3-22-1",
+    "postalCode": "184-8575",
+    "phone": "042-384-4411",
+    "website": "http://www.chuo-u.ac.jp/chufuku/",
+    "type": "共学",
+    "establishmentYear": 1963,
+    "coordinates": {
+      "lat": 35.7081,
+      "lng": 139.5042
+    }
+  },
+  {
+    "name": "筑波大学附属駒場中学校",
+    "nameEn": "University of Tsukuba Junior High School at Komaba",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区池尻4-7-1",
+    "postalCode": "154-0001",
+    "phone": "03-3411-8521",
+    "website": "http://www.komaba-s.tsukuba.ac.jp/",
+    "type": "男子",
+    "establishmentYear": 1947,
+    "coordinates": {
+      "lat": 35.6564,
+      "lng": 139.6931
+    }
+  },
+  {
+    "name": "田園調布学園中等部",
+    "nameEn": "Den-en Chofu Gakuen Junior High School",
+    "ward": "世田谷区",
+    "address": "東京都世田谷区東玉川2-21-8",
+    "postalCode": "158-8512",
+    "phone": "03-3727-6121",
+    "website": "http://www.chofu.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1926,
+    "coordinates": {
+      "lat": 35.6144,
+      "lng": 139.6761
+    }
+  },
+  {
+    "name": "東京家政学院中学校",
+    "nameEn": "Tokyo Kasei Gakuin Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区三番町22",
+    "postalCode": "102-8341",
+    "phone": "03-3262-2559",
+    "website": "http://www.kasei-gakuin.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1923,
+    "coordinates": {
+      "lat": 35.6858,
+      "lng": 139.7408
+    }
+  },
+  {
+    "name": "東京女学館中学校",
+    "nameEn": "Tokyo Joshi Gakkan Junior High School",
+    "ward": "渋谷区",
+    "address": "東京都渋谷区広尾3-7-16",
+    "postalCode": "150-0012",
+    "phone": "03-3400-0867",
+    "website": "http://www.tjk.jp/mh/",
+    "type": "女子",
+    "establishmentYear": 1888,
+    "coordinates": {
+      "lat": 35.6525,
+      "lng": 139.7189
+    }
+  },
+  {
+    "name": "東洋英和女学院中学部",
+    "nameEn": "Toyo Eiwa Jogakuin Junior High School",
+    "ward": "港区",
+    "address": "東京都港区六本木5-14-40",
+    "postalCode": "106-8507",
+    "phone": "03-3583-0696",
+    "website": "http://www.toyoeiwa.ac.jp/chu/",
+    "type": "女子",
+    "establishmentYear": 1884,
+    "coordinates": {
+      "lat": 35.6642,
+      "lng": 139.7281
+    }
+  },
+  {
+    "name": "豊島岡女子学園中学校",
+    "nameEn": "Toshimaoka Girls' Junior High School",
+    "ward": "豊島区",
+    "address": "東京都豊島区東池袋1-25-22",
+    "postalCode": "170-0013",
+    "phone": "03-3983-8261",
+    "website": "http://www.toshimaoka.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1892,
+    "coordinates": {
+      "lat": 35.7300,
+      "lng": 139.7169
+    }
+  },
+  {
+    "name": "桐朋中学校",
+    "nameEn": "Toho Junior High School",
+    "ward": "国立市",
+    "address": "東京都国立市中3-1-10",
+    "postalCode": "186-0004",
+    "phone": "042-577-2171",
+    "website": "http://www.toho.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1952,
+    "coordinates": {
+      "lat": 35.6786,
+      "lng": 139.4428
+    }
+  },
+  {
+    "name": "桐朋女子中学校",
+    "nameEn": "Toho Girls' Junior High School",
+    "ward": "調布市",
+    "address": "東京都調布市若葉町1-41-1",
+    "postalCode": "182-8510",
+    "phone": "03-3300-2111",
+    "website": "http://www.toho.ac.jp/chuko/",
+    "type": "女子",
+    "establishmentYear": 1941,
+    "coordinates": {
+      "lat": 35.6514,
+      "lng": 139.5439
+    }
+  },
+  {
+    "name": "雙葉中学校",
+    "nameEn": "Futaba Junior High School",
+    "ward": "千代田区",
+    "address": "東京都千代田区六番町14-1",
+    "postalCode": "102-8470",
+    "phone": "03-3261-0821",
+    "website": "http://www.futabagakuen-jh.ed.jp/",
+    "type": "女子",
+    "establishmentYear": 1909,
+    "coordinates": {
+      "lat": 35.6917,
+      "lng": 139.7372
+    }
+  },
+  {
+    "name": "普連土学園中学校",
+    "nameEn": "Friends School Junior High School",
+    "ward": "港区",
+    "address": "東京都港区三田4-14-16",
+    "postalCode": "108-0073",
+    "phone": "03-3453-4616",
+    "website": "http://www.friends.ac.jp/",
+    "type": "女子",
+    "establishmentYear": 1887,
+    "coordinates": {
+      "lat": 35.6447,
+      "lng": 139.7442
+    }
+  },
+  {
+    "name": "武蔵中学校",
+    "nameEn": "Musashi Junior High School",
+    "ward": "練馬区",
+    "address": "東京都練馬区豊玉上1-26-1",
+    "postalCode": "176-8535",
+    "phone": "03-5984-3741",
+    "website": "http://www.musashi.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1922,
+    "coordinates": {
+      "lat": 35.7369,
+      "lng": 139.6622
+    }
+  },
+  {
+    "name": "明治大学付属中野中学校",
+    "nameEn": "Meiji University Junior High School Nakano",
+    "ward": "中野区",
+    "address": "東京都中野区東中野3-3-4",
+    "postalCode": "164-0003",
+    "phone": "03-3362-8704",
+    "website": "http://www.meinaka.jp/",
+    "type": "男子",
+    "establishmentYear": 1929,
+    "coordinates": {
+      "lat": 35.7025,
+      "lng": 139.6867
+    }
+  },
+  {
+    "name": "明治大学付属明治中学校",
+    "nameEn": "Meiji University Junior High School Meiji",
+    "ward": "調布市",
+    "address": "東京都調布市富士見町4-23-25",
+    "postalCode": "182-0033",
+    "phone": "042-444-9100",
+    "website": "http://www.meiji.ac.jp/ko_chu/",
+    "type": "共学",
+    "establishmentYear": 2008,
+    "coordinates": {
+      "lat": 35.6525,
+      "lng": 139.5331
+    }
+  },
+  {
+    "name": "明治学院中学校",
+    "nameEn": "Meiji Gakuin Junior High School",
+    "ward": "港区",
+    "address": "東京都港区白金台1-2-37",
+    "postalCode": "108-0071",
+    "phone": "03-5421-5011",
+    "website": "http://www.meijigakuin.ed.jp/",
+    "type": "共学",
+    "establishmentYear": 1947,
+    "coordinates": {
+      "lat": 35.6397,
+      "lng": 139.7236
+    }
+  },
+  {
+    "name": "立教新座中学校",
+    "nameEn": "Rikkyo Niiza Junior High School",
+    "ward": "埼玉県新座市",
+    "address": "埼玉県新座市北野1-2-25",
+    "postalCode": "352-8523",
+    "phone": "048-471-7191",
+    "website": "http://niiza.rikkyo.ac.jp/",
+    "type": "男子",
+    "establishmentYear": 2000,
+    "coordinates": {
+      "lat": 35.7942,
+      "lng": 139.5647
+    }
+  },
+  {
+    "name": "立教池袋中学校",
+    "nameEn": "Rikkyo Ikebukuro Junior High School",
+    "ward": "豊島区",
+    "address": "東京都豊島区西池袋5-16-5",
+    "postalCode": "171-0021",
+    "phone": "03-3985-2707",
+    "website": "http://ikebukuro.rikkyo.ac.jp/",
+    "type": "男子",
+    "establishmentYear": 1896,
+    "coordinates": {
+      "lat": 35.7325,
+      "lng": 139.7044
+    }
+  },
+  {
+    "name": "立教女学院中学校",
+    "nameEn": "Rikkyo Girls' Junior High School",
+    "ward": "杉並区",
+    "address": "東京都杉並区久我山4-29-60",
+    "postalCode": "168-8616",
+    "phone": "03-3334-5103",
+    "website": "http://www.rikkyojogakuin.ac.jp/",
+    "type": "女子",
+    "establishmentYear": 1931,
+    "coordinates": {
+      "lat": 35.6964,
+      "lng": 139.6089
+    }
+  },
+  {
+    "name": "早稲田中学校",
+    "nameEn": "Waseda Junior High School",
+    "ward": "新宿区",
+    "address": "東京都新宿区馬場下町62",
+    "postalCode": "162-8654",
+    "phone": "03-3202-7674",
+    "website": "http://www.waseda.ed.jp/",
+    "type": "男子",
+    "establishmentYear": 1895,
+    "coordinates": {
+      "lat": 35.7039,
+      "lng": 139.7206
+    }
+  },
+  {
+    "name": "早稲田実業学校中等部",
+    "nameEn": "Waseda Jitsugyo Junior High School",
+    "ward": "国分寺市",
+    "address": "東京都国分寺市本町1-2-1",
+    "postalCode": "185-8505",
+    "phone": "042-300-2121",
+    "website": "http://www.wasedajg.ed.jp/",
+    "type": "共学",
+    "establishmentYear": 1901,
+    "coordinates": {
+      "lat": 35.7017,
+      "lng": 139.4747
+    }
+  }
+]
